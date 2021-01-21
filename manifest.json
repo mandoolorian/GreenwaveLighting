@@ -2,7 +2,7 @@
   "domain": "greenwave",
   "name": "Greenwave",
   "documentation": "https://github.com/dfiel/GreenwaveLighting",
-  "requirements": [],
+  "requirements": [git+https://github.com/mandoolorian/greenwavereality.git],
   "dependencies": [],
   "codeowners": []
 }
